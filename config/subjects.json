@@ -1,0 +1,30 @@
+{
+  "math1": {
+    "name": "数学一",
+    "directory": "数学一",
+    "exam_type": "统考",
+    "status": "PROVISIONAL",
+    "aliases": ["math1", "数学一", "数学1"]
+  },
+  "english1": {
+    "name": "英语一",
+    "directory": "英语一",
+    "exam_type": "统考",
+    "status": "PROVISIONAL",
+    "aliases": ["english1", "英语一", "英语1"]
+  },
+  "politics": {
+    "name": "思想政治理论",
+    "directory": "思想政治理论",
+    "exam_type": "统考",
+    "status": "PROVISIONAL",
+    "aliases": ["politics", "政治", "思想政治理论"]
+  },
+  "major_pending": {
+    "name": "专业课（待确定）",
+    "directory": "专业课_待确定",
+    "exam_type": "自命题",
+    "status": "PENDING",
+    "aliases": ["major_pending", "专业课", "专业课待确定", "专业课_待确定"]
+  }
+}

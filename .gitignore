@@ -1,0 +1,25 @@
+# Local databases and SQLite sidecars
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+
+# Python cache and local tooling output
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Generated reports and local attachments
+.hermes/
+99_维护与检查/一致性检查/*.md
+99_维护与检查/数据库检查/*.md
+98_Skill测试区/临时/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
